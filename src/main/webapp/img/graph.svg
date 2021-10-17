@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="500" height="500">
+
+    <line x1="250" y1="500" x2="250" y2="0" stroke="#000"></line>
+    <line x1="0" y1="250" x2="500" y2="250" stroke="#000"></line>
+    <!-- OX R-s -->
+    <line x1="50" y1="253" x2="50" y2="247" stroke="#000"></line>
+    <line x1="150" y1="253" x2="150" y2="247" stroke="#000"></line>
+    <line x1="350" y1="253" x2="350" y2="247" stroke="#000"></line>
+    <line x1="450" y1="253" x2="450" y2="247" stroke="#000"></line>
+    <text x="45" y="245">R</text>
+    <text x="445" y="245">R</text>
+    <text x="140" y="245">R/2</text>
+    <text x="340" y="245">R/2</text>
+    <!-- OX R-s -->
+    <line x1="247" y1="50" x2="253" y2="50" stroke="#000"></line>
+    <line x1="247" y1="150" x2="253" y2="150" stroke="#000"></line>
+    <line x1="247" y1="350" x2="253" y2="350" stroke="#000"></line>
+    <line x1="247" y1="450" x2="253" y2="450" stroke="#000"></line>
+    <text x="255" y="55">R</text>
+    <text x="255" y="455">R</text>
+    <text x="255" y="355">R/2</text>
+    <text x="255" y="155">R/2</text>
+    <!-- figures -->
+    <rect x="250" y="150" width="200" height="100" fill-opacity="0.5" fill="blue"></rect>
+    <polygon points="250,250 250,150 150,250" fill-opacity="0.5" fill="blue"></polygon>
+    <path d="M250,250 350,250 A100 100 0 0 1 250 350" fill-opacity="0.5" fill="blue" stroke="navy"></path>
+    <!--  arrows-->
+    <line x1="500" y1="250" x2="492" y2="248" stroke="#000"></line>
+    <line x1="500" y1="250" x2="492" y2="252" stroke="#000"></line>
+    <line x1="250" y1="0" x2="248" y2="8" stroke="#000"></line>
+    <line x1="250" y1="0" x2="252" y2="8" stroke="#000"></line>
+
+</svg>
